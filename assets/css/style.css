@@ -1,0 +1,96 @@
+body, h4 {
+	color: #00203fff;
+}
+
+body {
+	background-color: rgb(250, 254, 255);
+}
+
+.jumbotron {
+	background-color: #2778c5;
+	color: yellow;
+}
+
+.row2a {
+	border: 1px solid #2778c5;
+	background-color: #2778c5;
+	border-radius: 3pt;
+	padding-left: 12pt;
+	color: white;
+}
+
+.btn-primary {
+	background-color: #2778c5;
+}
+
+#buttons-view,
+#city-input {
+	margin-top: 1rem;
+	border: 1px solid #2778c5;
+	border-radius: 3pt;
+}
+
+h3, h6{
+	color: yellow;
+}
+
+p{
+	color: white
+}
+
+.list-group-item {
+	background-color: #ffffff;
+}
+
+.card {
+	background-color: #2778c5;
+	color: #000000;
+}
+
+.card-body {
+	padding: 0.35rem;
+}
+
+.uvGreen {
+	background-color: lightgreen;
+	border-radius: 5px;
+}
+
+.uvYellow {
+	background-color: lightyellow;
+	border-radius: 5px;
+}
+
+.uvOrange {
+	background-color: lightsalmon;
+	border-radius: 5px;
+}
+
+.uvRed {
+	background-color: palevioletred;
+	border-radius: 5px;
+}
+
+.uvPurple {
+	background-color: violet;
+	border-radius: 5px;
+}
+
+img {
+	width: 15%;
+	height: 15%;
+}
+
+.card-text {
+	font-size: 10pt;
+	color: white;
+}
+
+.forcast {
+	padding: 12pt;
+}
+
+img {
+	max-width: 50%;
+	height: 50%;
+  }
